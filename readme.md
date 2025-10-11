@@ -1,4 +1,4 @@
-# MapReduce in GO
+# MapReduce in Golang
 
 
 ## About
